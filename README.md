@@ -3,8 +3,7 @@
 Sofware Engineer at the government of the state of **Nuevo Leon, Mexico**. Previously worked at CBQA Solutions, QA Software Automation Company in Mexico.
 
 
-
-**Languages**
+##Languages
 
 🇲🇽 Spanish
 
@@ -12,7 +11,7 @@ Sofware Engineer at the government of the state of **Nuevo Leon, Mexico**. Previ
 
 🇩🇪 German</br>
 
-**Education**
+##Education
 
 👨🏻‍🎓 Bachelor's degree in Sofware Engineering - Class of 2020.
 
@@ -24,13 +23,10 @@ Sofware Engineer at the government of the state of **Nuevo Leon, Mexico**. Previ
 
 🎵 Music</br>
 
-```
 ##Currently Learning
-```
-
 Vue.js + Vuex</br>
 
-**Contact me at**
+##Contact me at
 
 - [Linkedin](https://www.linkedin.com/in/mframon/) <br/>
 - [Twitter](https://twitter.com/MFRamon_) <br/>
