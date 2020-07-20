@@ -6,19 +6,15 @@ Sofware Engineer at the government of the state of **Nuevo Leon, Mexico**. Previ
 
 **Languages**
 
-- Spanish
+🇲🇽 Spanish
 
-- English
+🇬🇧 English
 
-- German
-
-  
+🇩🇪 German</br>
 
 **Education**
 
-Bachelor's degree in Sofware Engineering - Class of 2020.
-
-
+👨🏻‍🎓 Bachelor's degree in Sofware Engineering - Class of 2020.
 
 **Interests**
 
@@ -26,15 +22,11 @@ Bachelor's degree in Sofware Engineering - Class of 2020.
 
 ⽭ Languages
 
-🎵 Music
-
-
+🎵 Music</br>
 
 **Currently Learning**
 
-Vue.js + Vuex
-
-
+Vue.js + Vuex</br>
 
 **Contact me at**
 
