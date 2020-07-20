@@ -1,6 +1,6 @@
 ### Hola | Hello | Hallo 
 
-Sofware Engineer at the government of the state of **Nuevo Leon, Mexico**. Previously worked at CBQA Solutions, QA Software Automation Company in Mexico.
+Sofware Engineer at the government of the state of **Nuevo Leon, Mexico**. Previously worked at CBQA Solutions, QA Software Automation Company in Mexico.<br/>
 
 #### Languages
 
@@ -8,11 +8,11 @@ Sofware Engineer at the government of the state of **Nuevo Leon, Mexico**. Previ
 
 🇬🇧 English
 
-🇩🇪 German</br>
+🇩🇪 German<br/>
 
 #### Education
 
-👨🏻‍🎓 Bachelor's degree in Sofware Engineering - Class of 2020.
+👨🏻‍🎓 Bachelor's degree in Sofware Engineering - Class of 2020.<br/>
 
 #### Interests
 
@@ -20,11 +20,11 @@ Sofware Engineer at the government of the state of **Nuevo Leon, Mexico**. Previ
 
 ⽭ Languages
 
-🎵 Music</br>
+🎵 Music<br/>
 
 #### Currently Learning
 
-Vue.js + Vuex</br>
+Vue.js + Vuex<br/>
 
 #### Contact me at
 
