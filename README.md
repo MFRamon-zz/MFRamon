@@ -16,7 +16,7 @@ Sofware Engineer at the government of the state of **Nuevo Leon, Mexico**. Previ
 
 👨🏻‍🎓 Bachelor's degree in Sofware Engineering - Class of 2020.
 
-**Interests**
+##Interests
 
 🚵🏻‍♂️ Biking 
 
@@ -24,7 +24,9 @@ Sofware Engineer at the government of the state of **Nuevo Leon, Mexico**. Previ
 
 🎵 Music</br>
 
-**Currently Learning**
+```
+##Currently Learning
+```
 
 Vue.js + Vuex</br>
 
