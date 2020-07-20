@@ -4,7 +4,7 @@ Sofware Engineer at the government of the state of **Nuevo Leon, Mexico**. Previ
 
 
 
-**Languages **
+**Languages**
 
 - Spanish
 
@@ -36,7 +36,7 @@ Vue.js + Vuex
 
 
 
-**Contact me at **
+**Contact me at**
 
 - [Linkedin](https://www.linkedin.com/in/mframon/) <br/>
 - [Twitter](https://twitter.com/MFRamon_) <br/>
