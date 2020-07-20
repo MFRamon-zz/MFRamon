@@ -1,16 +1,43 @@
-### Hi there 👋
+### Hola | Hello | Hallo 
 
-<!--
-**MFRamon/MFRamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sofware Engineer at the government of the state of **Nuevo Leon, Mexico**. Previously worked at CBQA Solutions, QA Software Automation Company in Mexico.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Languages **
+
+- Spanish
+
+- English
+
+- German
+
+  
+
+**Education**
+
+Bachelor's degree in Sofware Engineering - Class of 2020.
+
+
+
+**Interests**
+
+🚵🏻‍♂️ Biking 
+
+⽭ Languages
+
+🎵 Music
+
+
+
+**Currently Learning**
+
+Vue.js + Vuex
+
+
+
+**Contact me at **
+
+- [Linkedin](https://www.linkedin.com/in/mframon/) <br/>
+- [Twitter](https://twitter.com/MFRamon_) <br/>
+- [Instagram](https://www.instagram.com/mframon_/) <br/>
